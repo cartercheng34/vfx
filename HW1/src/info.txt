@@ -1,0 +1,15 @@
+../input_image/IMG_4212.jpg 0.005
+../input_image/IMG_4213.jpg 0.008
+../input_image/IMG_4215.jpg 0.02
+../input_image/IMG_4216.jpg 0.0333
+../input_image/IMG_4217.jpg 0.05
+../input_image/IMG_4218.jpg 0.1
+../input_image/IMG_4221.jpg 0.6
+../input_image/IMG_4222.jpg 1
+../input_image/IMG_4223.jpg 1.6
+../input_image/IMG_4224.jpg 2.5
+../input_image/IMG_4225.jpg 4
+../input_image/IMG_4226.jpg 6
+../input_image/IMG_4227.jpg 10
+../input_image/IMG_4228.jpg 15
+../input_image/IMG_4229.jpg 25
